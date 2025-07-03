@@ -1,0 +1,9 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+selenium==4.10.0
+pandas==1.5.3
+python-multipart==0.0.6
+webdriver-manager==3.8.6
+pydantic==1.10.9
+aiofiles==23.1.0
+python-jose==3.3.0
